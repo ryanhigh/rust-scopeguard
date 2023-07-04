@@ -87,7 +87,7 @@ Recent Changes
 - 0.3.1
 
   - Add ``defer_on_unwind!``, ``Strategy`` trait
-  - Rename ``Guard`` ¡ú ``ScopeGuard``
+  - Rename ``Guard`` â†’ ``ScopeGuard``
   - Add ``ScopeGuard::with_strategy``.
   - ``ScopeGuard`` now implements ``Debug``.
   - Require Rust 1.11

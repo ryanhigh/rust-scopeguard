@@ -1,5 +1,31 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-scopeguard (1.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * first release in deepinOS
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- RyanBq <ryanbqzhao@gmail.com>  Mon, 03 Jul 2023 14:57:17 +0800
+rust-scopeguard (1.1.0-1) unstable; urgency=medium
+
+  * Package scopeguard 1.1.0 from crates.io using debcargo 2.4.3
+
+ -- kpcyrd <git@rxv.cc>  Tue, 06 Oct 2020 03:51:28 +0200
+
+rust-scopeguard (1.0.0-2) unstable; urgency=medium
+
+  * Source-only re-upload for migration to testing
+
+ -- kpcyrd <git@rxv.cc>  Tue, 15 Oct 2019 10:55:47 +0000
+
+rust-scopeguard (1.0.0-1) unstable; urgency=medium
+
+  * Package scopeguard 1.0.0 from crates.io using debcargo 2.4.0
+
+ -- kpcyrd <git@rxv.cc>  Wed, 04 Sep 2019 23:25:51 -0700
+
+rust-scopeguard (0.3.3-1) unstable; urgency=medium
+
+  * Package scopeguard 0.3.3 from crates.io using debcargo 2.2.1
+
+  [ kpcyrd <git@rxv.cc> ]
+  * Package scopeguard 0.3.3 from crates.io using debcargo 2.1.4
+
+ -- Ximin Luo <infinity0@debian.org>  Sat, 07 Jul 2018 14:01:01 -0700
